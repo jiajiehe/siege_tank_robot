@@ -2,7 +2,7 @@
 Siege Tank is a mechatronics project designed and built by [Jiajie He](https://www.linkedin.com/in/jiajie-he/), [Chi Zhang](https://www.linkedin.com/in/zhang-chi/), [Timothy Lee](https://www.linkedin.com/in/tlee732/) and [Zhengrong Shang](https://www.linkedin.com/in/zhengrongshang/). It is also a team project for Smart Product Design Applications [(ME218B)](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218&collapse=) at Stanford University, Winter 2017.
 
 <p align="center">
-<img src="./pics/product.jpeg" width="1200" height="400" />
+<img src="./pic/robot.JPG"  />
 </p>
 
 :warning: This page serves as software description, please refer to the project [website](https://me218siegetank.weebly.com/) for more details on mechanical and eletrical systems setup.
@@ -31,5 +31,11 @@ Indicates  game color (red or green), and blinks during the process of supplemen
 The state chart is shown below.
 
 <p align="center">
-<img src="./pics/product.jpeg" width="1200" height="400" />
+<img src="./pic/mastersm-state-chart_5_orig.png" />
+</p>
+<p align="center">
+<img src="./pic/movetodestination-state-chart.png" />
+</p>
+<p align="center">
+<img src="./pic/shooting-state-chart_2_orig.png" width = 500/>
 </p>
