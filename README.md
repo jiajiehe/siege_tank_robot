@@ -1,5 +1,5 @@
 # Siege Tank Robot
-Siege Tank is an autonomous robot navigating through an landscape with sensor systems. It is designed and built by [Jiajie He](https://www.linkedin.com/in/jiajie-he/), [Chi Zhang](https://www.linkedin.com/in/zhang-chi/), [Timothy Lee](https://www.linkedin.com/in/tlee732/) and [Zhengrong Shang](https://www.linkedin.com/in/zhengrongshang/). This is also a team mechatronics project for Smart Product Design Applications [(ME218B)](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218&collapse=) course at Stanford University, Winter 2017.
+Siege Tank is an autonomous robot navigating through a landscape with sensor systems. It is designed and built by [Jiajie He](https://www.linkedin.com/in/jiajie-he/), [Chi Zhang](https://www.linkedin.com/in/zhang-chi/), [Timothy Lee](https://www.linkedin.com/in/tlee732/) and [Zhengrong Shang](https://www.linkedin.com/in/zhengrongshang/). This is also a team mechatronics project for Smart Product Design Applications [(ME218B)](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218&collapse=) course at Stanford University, Winter 2017.
 
 <p align="center">
 <img src="./pic/robot.JPG" />
